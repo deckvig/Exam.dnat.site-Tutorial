@@ -4,6 +4,17 @@
 
 ![imgs](imgs/tutorial.png)
 
+#### Dome账户：
+
+管理员账户:
+`用户名和密码：admin@gmail.com`
+
+教师账户：
+`用户名和密码：teacher@gmail.com`
+
+学生账户：
+`用户名和密码：student@gmail.com`
+
 #### 安装流程：
 环境设置：
 `cp .nev.example .env`
@@ -37,13 +48,3 @@ Laravel Excel 需要 `PHP`的`zip`扩展，需要自行安装
 
 考试第二阶段只有全对才能得分
 
-#### 账户：
-
-管理员账户:
-`用户名和密码：admin@gmail.com`
-
-教师账户：
-`用户名和密码：teacher@gmail.com`
-
-学生账户：
-`用户名和密码：student@gmail.com`
