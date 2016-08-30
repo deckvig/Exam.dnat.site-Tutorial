@@ -24,6 +24,7 @@
 ## 截图
 ![imgs](imgs/tutorial.png)
 ![imgs2](imgs/tutorial2.png)
+![imgs3](imgs/tutorial3.png)
 
 ## Dome账户：
 
